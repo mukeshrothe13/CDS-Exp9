@@ -1,4 +1,4 @@
-//Mukesh Rothe  23070123089  EXP9
+
 # AIM
 To use pointers for accessing elements of arrays and finding the addresses of different data types.
 
