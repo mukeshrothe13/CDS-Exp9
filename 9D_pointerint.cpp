@@ -12,4 +12,5 @@ int main()
 
     cout << "The address of variable b is: "<<&a << endl;
     ptr ++;
-    co
+    cout<< "After increment the value in pointer variable ptr is: " << (void*)ptr << endl;
+}
